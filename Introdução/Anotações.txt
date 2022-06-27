@@ -1,1 +1,10 @@
-Bloco de notas.
+Lembretes úteis para uso do git:
+git init -> inicializar repositório do git
+mkdir nomedapasta -> irá criar uma pasta com o nome da pasta
+cd nomedapasta/ -> irá ir para a pasta
+ls -a -> mostra os arquivos ocultos
+git status -> exibe as condições do diretório de trabalho e da área staging.
+git commit -m "Aviso sobre a alteração" -> criar um commit, ou seja, guardar o estado do repositório naquele momento
+git clone urldogit -> criar um clone de um repositório remoto no repositório local
+git add . -> adicionar ao repositório remoto modificações do repositório local
+git push origin main -> enviar commits locais para a nuvem
